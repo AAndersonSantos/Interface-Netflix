@@ -42,7 +42,9 @@ header nav a:hover{
 /*Filme Principal*/
 .filme-principal{
     font-size: 15px;
-    background: -webkit-linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)100%), url(/img/tmdb_mr_robot.jpg);
+    background: -webkit-linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)100%), url(../img/tmdb_mr_robot.jpg);
+    background: -moz-linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)100%), url(../img/tmdb_mr_robot.jpg);
+    background: -o-linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)100%), url(../img/tmdb_mr_robot.jpg);
     height: 600px;
     background-size: cover;
     display: flex;
@@ -57,14 +59,41 @@ header nav a:hover{
     align-items: flex-start;
 }
 
-
-
 .filme-principal .descricao{
     margin-top: 10px;
     margin-bottom: 30px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
     
+}
+
+input{
+    height: 31px;
+    padding-left: 30px;
+    outline: none;
+    border: solid 1px white;
+    margin-right: 20px;
+    border-radius: 3px;
+    background-color: #000000;
+    color: #fff;   
+}
+
+input[type="search"] {
+    position:relative;
+    padding-right: 10px; 
+}
+
+::-webkit-search-cancel-button{
+    -webkit-appearance: none;
+}
+
+.fa-search{
+    position: absolute;
+    top: 24px;
+    right: 210px;
+    font-size: 13px;
+    padding-left: 40px;
+    color: #AAA;
 }
 
 h3{

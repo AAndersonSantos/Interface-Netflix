@@ -1,7 +1,13 @@
 <h1 align="center">🎥 Interface Netflix </h1>
 
+<h2 align="center"><a href="https://aandersonsantos.github.io/Interface-Netflix/"> 🚀Clique Aqui Para Acessar O Projeto🚀</a></h2>
+<p>
+
+---
+
+
 <h2 align="center">👁‍🗨👁‍🗨</h2>
-<h3 align="center">⬇️Veja um pequeno video do projeto⬇️</h3>
+<h3 align="center">⬇️Demonstração Do Projeto⬇️</h3>
 <p>
 <h1 align="center"><img src="img/projeto.gif"></h1>
 
@@ -18,9 +24,9 @@
 
 ## **💻Tecnologias Ultilizadas**
 
-* Html
-* JavaScript
-* Css
+* [Html](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5)
+* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+* [Css](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 ---
 
 ## **💾Clone Do Repositório**
@@ -32,6 +38,6 @@ git clone https://github.com/AAndersonSantos/Interface-Netflix.git
 ---
 
 
-## **📝Licença Do Projeto**
+## **📝Licença**
 
- [MIT]() 
+ [MIT](https://github.com/AAndersonSantos/Interface-Netflix/blob/main/LICENSE) 
