@@ -1,10 +1,6 @@
 <h1 align="center">🎥 Interface Netflix </h1>
 
-<h2 align="center"><a href="https://aandersonsantos.github.io/Interface-Netflix/"> 🚀Clique Aqui Para Acessar O Projeto🚀</a></h2>
-<p>
-
----
-
+<h2 align="center"><a href="https://aandersonsantos.github.io/Interface-Netflix/"> 🚀 Clique Aqui Para Acessar 🚀</a></h2>
 
 <h2 align="center">👁‍🗨👁‍🗨</h2>
 <h3 align="center">⬇️Demonstração Do Projeto⬇️</h3>

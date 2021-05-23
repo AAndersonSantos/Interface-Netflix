@@ -1,15 +1,31 @@
 @media screen and (max-width: 700px){
     header .container{
         display: flex;
-        flex-direction: column;
+        margin-right: 330px;
+    }
+
+    a{
+        display: none;
+    }
+
+    input{
+        margin-top: 2px;
+        margin-left: 100px;
     }
 
     .botao{
         margin-top: 5px;
         width: 300px;
     }
+
     .container:nth-child(2){
         margin-top: 50px;
+    }
+
+    .fa-search{
+        position: absolute;
+        top: 25px;
+        left: 218px;  
     }
 }
 
@@ -17,5 +33,6 @@
     .descricao{
         width: 80%;
     }
+
 }
 

@@ -88,9 +88,9 @@ input[type="search"] {
 }
 
 .fa-search{
-    position: absolute;
-    top: 24px;
-    right: 210px;
+    position: relative;
+    top: 0px;
+    right: 260px;
     font-size: 13px;
     padding-left: 40px;
     color: #AAA;
