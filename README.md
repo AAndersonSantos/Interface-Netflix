@@ -14,11 +14,11 @@
 ---
 
 ## **🔗Imagens Do Projeto**
-#As imagens ultilizadas nesse projeto são alguns dos meus filmes e séries favoritos, imagens foram tiradas do site [www.themoviedb.org](https://www.themoviedb.org/?language=pt-BR)
+#As imagens utilizadas nesse projeto são alguns dos meus filmes e séries favoritos, imagens foram tiradas do site [www.themoviedb.org](https://www.themoviedb.org/?language=pt-BR)
 
 ---
 
-## **💻Tecnologias Ultilizadas**
+## **💻Tecnologias Utilizadas**
 
 * [Html](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5)
 * [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
@@ -26,9 +26,8 @@
 ---
 
 ## **💾Clone Do Repositório**
+#Para fazer clone do repositório utilizando git use a linha de comando abaixo:
 ```
-#Para fazer clone do repositório ultilizando git use a linha de comando abaixo:
-
 git clone https://github.com/AAndersonSantos/Interface-Netflix.git
 ```
 ---
